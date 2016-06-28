@@ -1,0 +1,17 @@
+body{
+  background-color:grey;
+
+}
+
+blockquote{
+border:1px solid white;
+width:500px;
+padding-top: 5px;
+padding-bottom: 5px;
+text-align:center;
+
+}
+div{
+  margin:auto;
+  width:500px;
+}

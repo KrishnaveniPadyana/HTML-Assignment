@@ -1,0 +1,28 @@
+.header_colorr{
+  background-color: blue;
+  height:30px;
+  width: 100%;
+
+}
+.footer_color{
+  background-color: green;
+  height:30px;
+  width: 100%;
+
+}
+.main1{
+  height: 200px;
+  width:200px;
+float: left;
+}
+.main2{
+  height: 200px;
+  width:200px;
+
+}
+.main3{
+  background-color: orange;
+  height: 200px;
+  width:200px;
+  float: right;
+}

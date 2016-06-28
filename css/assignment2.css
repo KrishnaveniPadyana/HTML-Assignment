@@ -1,0 +1,115 @@
+.main_background{
+}
+.header_style{
+position: fixed;
+background-color:#ccddff;
+height: 150px;
+text-align: center;
+width:960px;
+
+
+}
+
+.sdm_shades{
+  font-size: 30px;
+  color: #000099;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 25px;
+  text-shadow: 2px 0px 0px #8080ff;
+ font-family: 'Bitter', serif;
+}
+.headerlist{
+font-family: 'Candal', sans-serif
+
+}
+
+
+nav a{
+  font-size: 20px;
+  color: black;
+  text-align: center;
+text-decoration: none;
+padding-right: 20px;
+
+}
+
+nav li{
+  font-size: 25px;
+  display: inline;
+   list-style: none;
+   padding-top: 100px;
+ }
+
+nav li:hover{
+  font-size:30px;width: 100%;
+  color:blue ;
+}
+#myCarousel {
+  padding-top: 450px;
+	margin-top: 60px;
+}
+
+.carousel-caption {
+	font-size: 24px;
+}
+
+.carousel-caption h4 {
+	font-size: 32px;
+}
+
+#myCarousel .item { height: 600px; width:960px; }
+
+#slide1 {
+	background: url('../Images/sdmm1.jpg') top center no-repeat;
+}
+
+#slide2 {
+	background: url('../Images/sdmm2.jpg') top center no-repeat;
+}
+
+#slide3 {
+	background: url('../Images/sdmm3.jpg') top center no-repeat;
+}
+
+
+.image{
+padding-top: 160px;
+padding-left: 20px;
+margin-right: 40px;
+}
+.paragraphs p{
+  text-align: justify;
+font-family: 'Montserrat', sans-serif;
+}
+.paragraphs{margin-right: 0;
+  text-align: center;
+}
+.function{
+font-family: 'PT Serif', serif;
+font-size: 16px;
+}
+
+div a:hover{
+	font-size:30px;width: 100%;
+	color:blue ;
+}
+.badges{
+  display: inline;
+}
+.footerfont{
+font-family: 'Nunito', sans-serif;
+}
+
+.footer_styke{
+  text-decoration: none;
+  display: inline;
+}
+.copyright{
+  background-color:#ccddff;
+  padding-top: 15px;
+
+}
+.imggrd{
+  padding-right: 0;margin-right: 0px;
+}

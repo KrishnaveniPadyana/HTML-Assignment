@@ -1,0 +1,54 @@
+.header_style{
+position: fixed;
+background-color:#ccddff;
+height: 100px;
+text-align: center;
+width:960px;
+
+}
+
+.sdm_shades{
+  font-size: 30px;
+  color: #000099;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  text-shadow: 2px 0px 0px #8080ff;
+  font-family: 'Bitter', serif;
+}
+
+.hero_image{
+
+  height:100px;
+  padding-top: 100px;
+}
+.course_details{
+  font-family: 'Bitter', serif;
+  margin-top: 100px;
+  background-color: #e6ecff;
+
+}
+.course1{
+  text-align: center;
+
+  width:960px;
+}
+
+.coursepar p{
+font-family: 'Montserrat', sans-serif;
+text-align: justify;
+
+}
+.courseparr p{
+text-align: justify;
+font-family: 'Montserrat', sans-serif;
+}
+
+
+.copyright{
+  font-family: 'Nunito', sans-serif;
+  background-color:#ccddff;
+  padding-top: 15px;
+  text-align: center;
+
+}

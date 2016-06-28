@@ -1,0 +1,44 @@
+div.header_background{
+padding: 0px;
+background-color: blue;
+width: 100%;
+height: 120px;
+position: fixed;
+z-index: 999;
+}
+
+.header_style{
+  margin-top: 0px;
+  padding: 0px;
+}
+
+.sdm_shades{
+  color: yellow;
+  font-size: 35px;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-shadow: 2px 0px 0px red;
+}
+
+.design{
+  padding-top:120px;
+
+}
+.copyright{
+  text-align: center;
+}
+
+.body{
+  background-color:white;
+
+}
+.section{
+  background-color: orange;
+}
+
+.copyright{
+  text-align: center;
+  height:50px;
+  background-color: grey;
+}
